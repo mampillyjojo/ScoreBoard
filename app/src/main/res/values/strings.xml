@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Scoreboard</string>
+
+    <string name="facebook_app_id">373843752978390</string>
+    <string name="fb_login_protocol_scheme">fb373843752978390</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <!-- Login -->
+    <string name="username_txt">Username</string>
+    <string name="password_txt">Password</string>
+    <string name="login_txt">Login</string>
+    <string name="facebookLoginButton">Login In With Facebook</string>
+
+
+</resources>
